@@ -1,5 +1,46 @@
-/* Example */
-#not {
-  display: none;
+body {
+	position: absolute;
+	width: 98vh;
+	height: 90vh;
+	max-width: 100vh;
 }
-/***********/
+
+.container1 {
+  width: 80vh;
+  font-family: Comic Sans MS;
+  font-size: 25px;
+  color: white;
+  margin: -2vh 0vh 0vh 12vh;
+  position: relative;
+}
+
+h3 {
+  font-family: Courier;
+  font-size: 20px;
+}
+
+.search_bar {
+  width: 55vh;
+  height: 4.5vh;
+  border-width: 0.5px; 
+  border-radius: .4em;
+  outline: none;
+}
+
+.submit {
+  width: 18vh;
+  height: 5vh;
+  font-size: 90%;
+  font-family: Arial;
+  background-color: #4B4B4B;
+  color: white;
+  border-width: 0px; 
+  border-radius: .4em;
+  outline: none;
+  max-width: 100vh;
+  margin: -2vh 0vh 0vh 17vh;
+}
+
+.search {
+  margin: 18vh 0vh 0vh 2vh;
+}
