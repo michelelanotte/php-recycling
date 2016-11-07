@@ -1,16 +1,18 @@
 body {
 	position: absolute;
-	width: 98vh;
-	height: 90vh;
-	max-width: 100vh;
+	width: 98%;
+	height: 90%;
+	background-image: linear-gradient(76deg, #66CC99 60%, transparent 40%), url("../images/recycle.png");
+	background-position: right;
 }
 
-.container1 {
-  width: 80vh;
+
+.container2 {
+  width: 85vh;
   font-family: Comic Sans MS;
-  font-size: 25px;
+  font-size: 20px;
   color: white;
-  margin: -2vh 0vh 0vh 12vh;
+  margin: 4% 0% 0% 10%;
   position: relative;
 }
 
@@ -20,8 +22,8 @@ h3 {
 }
 
 .search_bar {
-  width: 55vh;
-  height: 4.5vh;
+  width: 70%;
+  height: 5%;
   border-width: 0.5px; 
   border-radius: .4em;
   outline: none;

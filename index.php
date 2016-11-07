@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="assets/css/main.css">
   
-  <body style="background-color: red">
-    <div class="container1">
+  <body>
+	<div class="container2">
 	  <h1>Recycle in </h1>
 	  <h1> Barletta </h1>
 	  
