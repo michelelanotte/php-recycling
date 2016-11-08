@@ -6,17 +6,15 @@
   <link rel="stylesheet" type="text/css" href="assets/css/main.css">
   
   <body>
-	<div class="container2">
-	  <h1>Recycle in </h1>
-	  <h1> Barletta </h1>
+	<div class="container">
+	  <h1>Recycle in <br> Barletta </h1>
 	  
 	  <div class="search">
 		<form action="/result.php" method="GET">
-          <input class="search_bar" type="text" name="object" placeholder="Cerca oggetto..."><br><br>
+          <input class="search_bar" type="text" name="object" placeholder="Cerca oggetto...">
 		  <input class="submit" type="submit" value="Cerca">
 	    </form>
 	  </div>
-	  <br>
 	  <h3>Riciclare è importante, ma non sempre facile. Recycle in Barletta ti aiuta: non sai dove mettere qualcosa? 
 		    Inserisci l’oggetto in questa pagina, noi ti diremo dove metterlo! <h3>
 	</div>

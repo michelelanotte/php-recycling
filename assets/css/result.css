@@ -1,0 +1,45 @@
+body {
+  height: 100vh;
+  background-image: linear-gradient(-78deg, #47D1AF 55%, transparent 0%);
+  background-position: right;
+  background-repeat: no-repeat;
+  margin: 0px;
+}
+
+
+.container {
+  width: 45%;
+  font-family: Comic Sans MS;
+  color: white;
+  padding: 30px 0px 0px 680px;
+  position: relative;
+}
+
+h1 {
+  font-family: Courier;
+  font-size: 60px;
+}
+
+.result {
+  margin: 110px 400px 20px 0px;  
+}
+
+
+h2 {
+  font-family: Courier;
+  font-size: 40px;
+}
+
+.return_home {
+  width: 60%;
+  height: 35px;
+  font-size: 20px;
+  font-family: Arial;
+  background-color: #4B4B4B;
+  color: white;
+  border-width: 0px; 
+  border-radius: .4em;
+  outline: none;
+  margin: 45px 0px 0px 250px;
+}
+
