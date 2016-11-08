@@ -1,16 +1,17 @@
 body {
   height: 100vh;
-  background-image: linear-gradient(78deg, #47D1AF 55%, transparent 0%), url("/assets/images/recycle.png");
-  background-position: right;
+  background-image: linear-gradient(78deg, #47D1AF 58%, rgba(255, 255, 255,.5) 0%), url("/assets/images/recycle.png");
+  background-position: center, center right 20px;
   background-repeat: no-repeat;
   margin: 0px;
+  background-size: 100%, 620px;
 }
 
 
 .container {
   width: 45%;
   color: white;
-  padding: 30px 0px 0px 40px;
+  padding: 30px 0px 0px 70px;
   position: relative;
 }
 
